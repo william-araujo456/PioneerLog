@@ -1,0 +1,154 @@
+[
+  {
+    "imagem": "../images/turing.jpg",
+    "nome": "Alan Turing",
+    "periodo": "1912–1954",
+    "descricao": "Matemático britânico e pai da ciência da computação e da inteligência artificial. Formalizou os conceitos de algoritmo e computação com a Máquina de Turing.",
+    "link": "https://pt.wikipedia.org/wiki/Alan_Turing",
+    "tags": ["Teoria", "IA", "Máquina de Turing", "Decodificação"]
+  },
+  {
+    "imagem": "../images/lovelace.jpg",
+    "nome": "Ada Lovelace",
+    "periodo": "1815–1852",
+    "descricao": "Matemática e escritora inglesa, amplamente reconhecida como a primeira programadora da história por ter escrito o primeiro algoritmo destinado a ser processado por uma máquina.",
+    "link": "https://pt.wikipedia.org/wiki/Ada_Lovelace",
+    "tags": ["Primeira Programadora", "Algoritmos", "Máquinas Mecânicas", "Matemática"]
+  },
+  {
+    "imagem": "../images/hopper.jpg",
+    "nome": "Grace Hopper",
+    "periodo": "1906–1992",
+    "descricao": "Almirante e cientista da computação americana. Ela popularizou o termo bug no sentido de falha de software e desenvolveu o primeiro compilador para linguagem de programação.",
+    "link": "https://pt.wikipedia.org/wiki/Grace_Hopper",
+    "tags": ["COBOL", "Compilador", "Bug", "Marinha dos Estados Unidos"]
+  },
+  {
+    "imagem": "../images/knuth.jpg",
+    "nome": "Donald Knuth",
+    "periodo": "1938–Atualmente",
+    "descricao": "Cientista da computação e professor emérito, conhecido por sua monumental série de livros, The Art of Computer Programming, que é a bíblia da análise de algoritmos.",
+    "link": "https://pt.wikipedia.org/wiki/Donald_Knuth",
+    "tags": ["Algoritmos", "Livro-Texto", "Análise", "TeX"]
+  },
+  {
+    "imagem": "../images/ritchie.jpg",
+    "nome": "Dennis Ritchie",
+    "periodo": "1941–2011",
+    "descricao": "Cientista da computação americano que criou a linguagem de programação C e foi codesenvolvedor do sistema operacional Unix, fundamentais para a computação moderna.",
+    "link": "https://pt.wikipedia.org/wiki/Dennis_Ritchie",
+    "tags": ["Linguagem C", "Unix", "Sistemas Operacionais", "AT&T"]
+  },
+  {
+    "imagem": "../images/thompson.jpg",
+    "nome": "Ken Thompson",
+    "periodo": "1943–Atualmente",
+    "descricao": "Cientista da computação americano, coinventor do sistema operacional Unix e criador da linguagem de programação B, sendo um pioneiro em sistemas operacionais.",
+    "link": "https://pt.wikipedia.org/wiki/Ken_Thompson",
+    "tags": ["Unix", "Linguagem B", "Sistemas Operacionais", "Go"]
+  },
+  {
+    "imagem": "../images/torvalds.jpg",
+    "nome": "Linus Torvalds",
+    "periodo": "1969–Atualmente",
+    "descricao": "Engenheiro de software finlandês, conhecido por ser o criador e principal desenvolvedor do kernel Linux, base de muitos sistemas operacionais atuais (como Android).",
+    "link": "https://pt.wikipedia.org/wiki/Linus_Torvalds",
+    "tags": ["Linux", "Kernel", "Código Aberto", "Git"]
+  },
+  {
+    "imagem": "../images/guido.jpg",
+    "nome": "Guido van Rossum",
+    "periodo": "1956–Atualmente",
+    "descricao": "Programador holandês, mais conhecido por ser o criador da linguagem de programação Python, destacada por sua sintaxe clara e ampla aplicação em diversas áreas.",
+    "link": "https://pt.wikipedia.org/wiki/Guido_van_Rossum",
+    "tags": ["Python", "Linguagem", "Desenvolvimento Web", "IA/ML"]
+  },
+  {
+    "imagem": "../images/hamilton.jpg",
+    "nome": "Margaret Hamilton",
+    "periodo": "1936–Atualmente",
+    "descricao": "Cientista da computação e engenheira de software que liderou a equipe que desenvolveu o software de voo onboard para as missões Apollo da NASA.",
+    "link": "https://pt.wikipedia.org/wiki/Margaret_Hamilton_(cientista_da_computa%C3%A7%C3%A3o)",
+    "tags": ["NASA", "Apollo", "Engenharia de Software"]
+  },
+  {
+    "imagem": "../images/tim.jpg",
+    "nome": "Tim Berners-Lee",
+    "periodo": "1955–Atualmente",
+    "descricao": "Físico e cientista da computação britânico, é o inventor da World Wide Web (WWW), do primeiro navegador e dos protocolos HTTP e HTML.",
+    "link": "https://pt.wikipedia.org/wiki/Tim_Berners-Lee",
+    "tags": ["Web", "WWW", "HTTP/HTML", "Internet"]
+  },
+  {
+    "imagem": "../images/eich.jpg",
+    "nome": "Brendan Eich",
+    "periodo": "1961–Atualmente",
+    "descricao": "Criador da linguagem de programação JavaScript (e cofundador da Mozilla). Essencial para o desenvolvimento front-end e interatividade da web.",
+    "link": "https://pt.wikipedia.org/wiki/Brendan_Eich",
+    "tags": ["JavaScript", "ECMAScript", "Mozilla", "Firefox", "Netscape", "WWW", "Navegadores"]
+  },
+  {
+    "imagem": "../images/cerf.jpg",
+    "nome": "Vint Cerf",
+    "periodo": "1943–Atualmente",
+    "descricao": "Cientista da computação e um dos criadores do conjunto de protocolos TCP/IP, a arquitetura de comunicação fundamental da Internet. Ele também é uma figura pública proeminente no desenvolvimento e governança da rede mundial de computadores.",
+    "link": "https://pt.wikipedia.org/wiki/Vint_Cerf",
+    "tags": ["TCP/IP", "Internet", "Protocolos", "Redes", "Governança Digital", "ICANN", "ARPANET"]
+  },
+  {
+    "imagem": "../images/kahn.jpg",
+    "nome": "Robert Kahn",
+    "periodo": "1938–Atualmente",
+    "descricao":"Engenheiro elétrico e cientista da computação americano. É o co-inventor dos protocolos TCP/IP juntamente com Vint Cerf. Seu trabalho pioneiro na agência ARPANET foi crucial para a interconexão das primeiras redes de computadores.",
+    "link": "https://pt.wikipedia.org/wiki/Robert_Kahn",
+    "tags": ["TCP/IP", "Internet", "Protocolos", "ARPANET", "Redes", "DARPA", "Engenharia Elétrica", "Pioneiro da Rede"]
+  },
+  {
+    "imagem": "../images/mccarthy.jpg",
+    "nome": "John McCarthy",
+    "periodo": "1927–2011",
+    "descricao":"Considerado o pai da IA por cunhar o termo e criar a linguagem de programação Lisp.",
+    "link": "https://pt.wikipedia.org/wiki/John_McCarthy",
+    "tags": ["IA", "Lisp", "Teoria da Computação", "Lógica Simbólica", "Lógica"]
+  },
+  {
+    "imagem": "../images/allen.jpg",
+    "nome": "Frances Allen",
+    "periodo": "1932–2020",
+    "descricao":"Cientista da computação americana conhecida por seu trabalho pioneiro em compiladores e otimização de código. Ela desenvolveu técnicas que aceleram a execução de programas e foi a primeira mulher a receber o prestigioso Prêmio Turing em 2006",
+    "link": "https://pt.wikipedia.org/wiki/Frances_Allen",
+    "tags": ["Compiladores", "Otimização de Código", "IBM", "Análise de Programas", "Paralelismo"]
+  },
+  {
+    "imagem": "../images/gates.jpg",
+    "nome": "Bill Gates",
+    "periodo": "1955–Atualmente",
+    "descricao":"Cofundador da Microsoft e uma das figuras centrais na revolução da computação pessoal. Liderou o desenvolvimento do MS-DOS e do sistema operacional Windows, tornando o software acessível e popular em todo o mundo.",
+    "link": "https://pt.wikipedia.org/wiki/Bill_Gates",
+    "tags": ["Microsoft", "Windows", "MS-DOS", "Sistemas Operacionais", "Software", "BASIC", "Empreendedorismo", "Computação Pessoal"]
+  },
+  {
+    "imagem": "../images/paul.jpg",
+    "nome": "Paul Allen",
+    "periodo": "1953-2018",
+    "descricao": "Cofundador da Microsoft ao lado de Bill Gates. Foi fundamental no início da empresa, especialmente no desenvolvimento do interpretador BASIC que a Microsoft licenciou para a MITS Altair, o primeiro computador pessoal bem-sucedido.",
+    "link": "https://pt.wikipedia.org/wiki/Paul_Allen",
+    "tags": ["BASIC", "Software", "Cofundador", "Computação Pessoal", "Interface Gráfica", "Empreendedorismo"]
+  },
+  {
+    "imagem": "../images/jobs.jpg",
+    "nome": "Steve Jobs",
+    "periodo": "1955–2011",
+    "descricao": "Cofundador, presidente e CEO da Apple Inc. Liderou a revolução da computação pessoal com o Macintosh e transformou a indústria com produtos como o iPod, iPhone e iPad. Foi um visionário focado em design, usabilidade e integração de hardware e software.",
+    "link": "https://pt.wikipedia.org/wiki/Steve_Jobs",
+    "tags": ["Apple", "Computação Pessoal", "Empreendedorismo", "Inovação", "Design", "Interface Gráfica", "Visionário Tech"]
+  },
+  {
+    "imagem": "../images/wozniak.jpg",
+    "nome": "Steve Wozniak",
+    "periodo": "1950–Atualmente",
+    "descricao": "Cofundador da Apple (junto com Steve Jobs). Ele foi o gênio da engenharia que projetou e desenvolveu o Apple I e o Apple II, catalisando a revolução da computação pessoal.",
+    "link": "https://pt.wikipedia.org/wiki/Steve_Wozniak",
+    "tags": ["Apple", "Hardware", "Computação Pessoal", "Engenharia Eletrônica", "Inovação"]
+  }
+]
